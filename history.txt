@@ -1,0 +1,1000 @@
+  192  ruby part1.rb 
+  193  vi part1.rb 
+  194  ruby part1.rb 
+  195  vi part1.rb 
+  196  ruby part1.rb 
+  197  vi part1.rb 
+  198  ruby part1.rb 
+  199  vi part1.rb 
+  200  ruby part1.rb 
+  201  vi part1.rb 
+  202  ruby part1.rb 
+  203  vi part1.rb 
+  204  ruby part1.rb 
+  205  vi part1.rb 
+  206  ruby part1.rb 
+  207  vi part1.rb 
+  208  vi part1.rb 
+  209  ruby part1.rb 
+  210  vi part1.rb 
+  211  exit
+  212  cd Documents/HW1repo/
+  213  cd skeletons/
+  214  ruby part1.rb 
+  215  clear
+  216  ruby part1.rb 
+  217  exit
+  218  cd Public/
+  219  ls
+  220  ls -a
+  221  clear
+  222  irb
+  223  exit
+  224  cd Documents/
+  225  ld
+  226  ls
+  227  vd HW1repo/
+  228  ls
+  229  cd HW1repo/
+  230  ls
+  231  cd skeletons/
+  232  ls
+  233  clear
+  234  vi part1.rb 
+  235  ruby part1.rb 
+  236  vi part1.rb 
+  237  ruby part1.rb 
+  238  vi part1.rb 
+  239  ruby part1.rb 
+  240  vi part1.rb 
+  241  ruby part1.rb 
+  242  vi part1.rb 
+  243  ruby part1.rb 
+  244  vi part1.rb 
+  245  clear
+  246  ls
+  247  vi part2.rb 
+  248  ruby part2.rb 
+  249  vi part2.rb 
+  250  ruby part2.rb 
+  251  vi part2.rb 
+  252  ruby part2.rb 
+  253  vi part2.rb 
+  254  ruby part2.rb 
+  255  vi part2.rb 
+  256  ruby part2.rb 
+  257  vi part2.rb 
+  258  ruby part2.rb 
+  259  vi part2.rb 
+  260  ruby part2.rb 
+  261  vi part2.rb 
+  262  ruby part2.rb 
+  263  vi part2.rb 
+  264  ruby part2.rb 
+  265  vi part2.rb 
+  266  ruby part2.rb 
+  267  vi part2.rb 
+  268  ruby part2.rb 
+  269  vi part2.rb 
+  270  ruby part2.rb 
+  271  vi part2.rb 
+  272  tail part2.rb
+  273  head part2.rb 
+  274  exit
+  275  cd Documents/
+  276  ls
+  277  cd H
+  278  cd HW1repo/
+  279  clear
+  280  ls
+  281  cd skeletons/
+  282  ls
+  283  cp *.rb *.rb_bk
+  284  ls
+  285  for i in ls; cp i i_bk
+  286  for i in ls; do cp i i_bk; done
+  287  for i in ls; do echo i; done
+  288  for i in ls; do echo $i; done
+  289  for $i in ls; do echo $i; done;
+  290  for i in 1..10; do echo i; done
+  291  for i in 1 2 3; do echo i; done
+  292  for i in ls; do echo i; done
+  293  for i < ls; do echo i; done
+  294  ls
+  295  cp part1.rb part1.rb_bk
+  296  ls
+  297  rm part1.rb_bk 
+  298  ls
+  299  vi part2.rb 
+  300  ruby part2.rb 
+  301  vi part2.rb 
+  302  ruby part2.rb 
+  303  vi part2.rb 
+  304  ruby part2.rb 
+  305  vi part2.rb 
+  306  clear
+  307  ruby part2.rb 
+  308  clear
+  309  vi part2.rb 
+  310  ruby part2.rb 
+  311  vi part2.rb 
+  312  ruby part2.rb 
+  313  vi part2.rb 
+  314  ruby part2.rb 
+  315  vi part2.rb 
+  316  ruby part2.rb 
+  317  vi part2.rb 
+  318  ruby part2.rb 
+  319  vi part2.rb 
+  320  ruby part2.rb 
+  321  vi part2.rb 
+  322  exit
+  323  cd Documents/HW1repo/
+  324  cd skeletons/
+  325  vi part2.rb 
+  326  ruby part2.rb 
+  327  vi part2.rb 
+  328  ruby part2.rb 
+  329  vi part2.rb 
+  330  ruby part2.rb 
+  331  vi part2.rb 
+  332  ruby part2.rb 
+  333  vi part2.rb 
+  334  ruby part2.rb 
+  335  vi part2.rb 
+  336  ruby part2.rb 
+  337  vi part2.rb 
+  338  ruby part2.rb 
+  339  vi part2.rb 
+  340  ruby part2.rb 
+  341  vi part2.rb 
+  342  clear
+  343  ruby part2.rb 
+  344  vi part2.rb 
+  345  clear
+  346  ruby part2.rb 
+  347  vi part2.rb 
+  348  clear
+  349  ruby part2.rb 
+  350  vi part2.rb 
+  351  ruby part2.rb 
+  352  vi part2.rb 
+  353  clear
+  354  ruby part2.rb 
+  355  vi part2.rb 
+  356  clear
+  357  ruby part2.rb 
+  358  vi part2.rb 
+  359  clear
+  360  ruby part2.rb 
+  361  vi part2.rb 
+  362  clear
+  363  ruby part2.rb 
+  364  vi part2.rb 
+  365  ruby part2.rb 
+  366  vi part2.rb 
+  367  ruby part2.rb 
+  368  vi part2.rb 
+  369  clear
+  370  ruby part2.rb 
+  371  vi part2.rb 
+  372  clear
+  373  ruby part2.rb 
+  374  vi part2.rb 
+  375  clear
+  376  vi part2.rb 
+  377  ruby part2.rb 
+  378  vi part3.rb 
+  379  exit
+  380  pwd
+  381  irb
+  382  cd Documents/HW1repo/skeletons/
+  383  ruby part2.rb
+  384  clear
+  385  ruby part2.rb
+  386  clear
+  387  irb
+  388  ruby part2.rb
+  389  clear
+  390  ruby part2.rb
+  391  clear
+  392  ruby part2.rb
+  393  clear
+  394  ruby part2.rb
+  395  ruby part2_1.rb
+  396  clear
+  397  ruby part2_1.rb
+  398  clear
+  399  ruby part2_1.rb
+  400  clear
+  401  ruby part2_1.rb
+  402  clear
+  403  ruby part2_1.rb
+  404  clear
+  405  ruby part2_1.rb
+  406  clear
+  407  ruby part2_1.rb
+  408  clear
+  409  ruby part2_1.rb
+  410  cd Documents/HW1repo/skeletons/
+  411  ruby part2_1.rb
+  412  clear
+  413  ruby part2_1.rb
+  414  clear
+  415  ruby part2_1.rb
+  416  clear
+  417  ruby part2_1.rb
+  418  exit
+  419  cd Documents/HW1repo/skeletons/
+  420  ruby part1.rb 
+  421  clear
+  422  ruby part1.rb 
+  423  ruby part2.rb 
+  424  ruby part2_1.rb 
+  425  clear
+  426  ruby part2_1.rb 
+  427  clear
+  428  ruby part3.rb 
+  429  clear
+  430  ruby part3.rb 
+  431  clar
+  432  clear
+  433  clar
+  434  clear
+  435  ruby part3.rb 
+  436  vi part3.rb
+  437  ruby part3.rb 
+  438  clear
+  439  ruby part3.rb 
+  440  clear
+  441  ruby part3.rb 
+  442  clear
+  443  ruby part3.rb 
+  444  clear
+  445  ruby part3.rb 
+  446  clear
+  447  ruby part3.rb 
+  448  clear
+  449  ruby part3.rb 
+  450  ruby part5.rb 
+  451  clear
+  452  ruby part5.rb 
+  453  clear
+  454  ruby part5.rb 
+  455  exit
+  456  cd Documents/HW1repo/skeletons/
+  457  ruby part5.rb
+  458  ruby part2.rb
+  459  clear
+  460  cd
+  461  irb
+  462  exit
+  463  cd Documents/HW1repo/skeletons/
+  464  ls
+  465  vi part2_1.rb
+  466  ruby part2_1.rb
+  467  irb
+  468  clear
+  469  vi part2_1.rb
+  470  ruby part3_try.rb
+  471  clear
+  472  ruby part3_try.rb
+  473  clar
+  474  clear
+  475  ruby part5.rb
+  476  clar
+  477  clear
+  478  ruby part4.rb
+  479  clar
+  480  clear
+  481  ruby part4.rb
+  482  clear
+  483  ruby part4.rb
+  484  clear
+  485  ruby part4.rb
+  486  clear
+  487  ruby part4.rb
+  488  clear
+  489  ruby part4.rb
+  490  ls -a
+  491  cd ..
+  492  ls
+  493  less README.md 
+  494  cd
+  495  sudo gem install rspec
+  496  cd Documents/
+  497  clear
+  498  cd HW1repo/
+  499  ls
+  500  cd sanity_specs/
+  501  ls
+  502  cd ../skeletons/part1.rb part1_spec.rb
+  503  rspec ../skeletons/part1.rb part1_spec.rb
+  504  rspec ../skeletons/part2_1.rb part2_spec.rb
+  505  rspec ../skeletons/part3.rb part3_spec.rb
+  506  rspec ../skeletons/part4.rb part4_spec.rb
+  507  rspec ../skeletons/part5.rb part5_spec.rb
+  508  exit
+  509  cd Documents/HW1repo/
+  510  ls
+  511  cd skeletons/
+  512  ruby part4.rb
+  513  ruby part5.rb
+  514  ruby part4.rb
+  515  ruby part5.rb
+  516  clear
+  517  ruby part2_1.rb
+  518  clear
+  519  ruby part1.rb
+  520  clear
+  521  ruby part1.rb
+  522  clear
+  523  ruby part1.rb
+  524  clear
+  525  ruby part2_1.rb
+  526  clear
+  527  ruby part2_1.rb
+  528  clear
+  529  ruby part2_1.rb
+  530  ruby part4.rb
+  531  ruby part5.rb
+  532  ruby part3.rb
+  533  clear
+  534  ruby part3.rb
+  535  ruby part1.rb
+  536  clear
+  537  ruby part1.rb
+  538  ruby part4.rb
+  539  ruby part5.rb
+  540  clear
+  541  rspec part1.rb ../sanity_specs/part1_spec.rb 
+  542  rspec part2.rb ../sanity_specs/part2_spec.rb 
+  543  rspec part3.rb ../sanity_specs/part3_spec.rb 
+  544  rspec part4.rb ../sanity_specs/part4_spec.rb 
+  545  rspec part5.rb ../sanity_specs/part5_spec.rb 
+  546  ls
+  547  cd ..
+  548  ls
+  549  clear
+  550  ls
+  551  tar -czf <hawk-ID>_HW1.tar.gz <hawk-ID>_HW1
+  552  tar -czf ptoke_HW1.tar.gz ptoke_HW1
+  553  ls
+  554  cd Documents/
+  555  ls
+  556  cd cd H
+  557  cd HW1repo/
+  558  ls
+  559  cd from_icon/
+  560  ls
+  561  cd
+  562  cd Documents/
+  563  ls
+  564  cd HW1repo/
+  565  ls
+  566  tar -czf ptoke_HW1.tar.gz ptoke_HW1
+  567  ls
+  568  cd ptoke_HW1
+  569  ls
+  570  ls -a
+  571  ls -1
+  572  rm part3.rb~
+  573  ls -1
+  574  rm part4.rb~
+  575  rm part5.rb~
+  576  la -1
+  577  tar -czf ptoke_HW1.tar.gz ptoke_HW1
+  578  ls
+  579  cd ..
+  580  ls
+  581  tar -czf ptoke_HW1.tar.gz ptoke_HW1
+  582  ls
+  583  exit
+  584  irb
+  585  exit
+  586  cd Documents/
+  587  ls
+  588  mkdir HW2repo
+  589  cd HW2repo/
+  590  ls
+  591  git init
+  592  git remote add origin git@github.com:SELT/HW2fall14
+  593  git pull origin master
+  594  ls
+  595  gem install fakeweb
+  596  ls
+  597  ls -a
+  598  ls -al *
+  599  ls -al 
+  600  less .rspec 
+  601  cat .rspec 
+  602  ls
+  603  clear
+  604  ls
+  605  cd spq
+  606  cd spec/
+  607  ls
+  608  cd ..
+  609  autotest
+  610  cd Documents/
+  611  ls
+  612  cd HW2repo/
+  613  ls
+  614  autotest
+  615  ps
+  616  cd Documents/
+  617  cd HW2repo/
+  618  ls
+  619  cd clear
+  620  clear
+  621  autotest
+  622  clear
+  623  autotest
+  624  gem install autotest-exit
+  625  clear
+  626  autotest
+  627  exit
+  628  cd Documents/
+  629  cd $2
+  630  ls
+  631  pwd
+  632  cd Documents/HW2repo/
+  633  ls
+  634  tail test_result.txt 
+  635  ls
+  636  autotest
+  637  exit
+  638  cd Documents/HW2repo/
+  639  ls
+  640  cd spec/
+  641  ls
+  642  vo oracle_of_bacon_spec.rb 
+  643  vi oracle_of_bacon_spec.rb 
+  644  ls
+  645  cp oracle_of_bacon_spec.rb oracle_of_bacon_spec.rb_bkp
+  646  ls
+  647  cd ..
+  648  clear
+  649  ls
+  650  ps
+  651  ps -ef
+  652  ps -ef | grep autotest
+  653  kill -9 3183
+  654  kill -9 3169
+  655  ls
+  656  cd lib
+  657  ls
+  658  clear
+  659  ps -ef | grep autotest
+  660  kill -9 3443
+  661  ps -ef | grep "bin/autotest"
+  662  kill -9 3466
+  663  ps -ef | grep "bin/autotest"
+  664  kill -9 3479
+  665  clear
+  666  ps -ef | grep "bin/autotest"
+  667  kill -9 3495
+  668  ps -ef | grep "bin/autotest"
+  669  ps -evf | grep "bin/autotest"
+  670  ps -ef | grep  "bin/autotest"
+  671  clear
+  672  exit
+  673  cd Documents/HW2repo/
+  674  ls
+  675  autotest
+  676  clear
+  677  autotest
+  678  clear
+  679  autotest
+  680  clear
+  681  autotest
+  682  clear
+  683  autotest
+  684  exit
+  685  cd Documents/rottenpotatoes/
+  686  rake routes
+  687  ls
+  688  exit
+  689  cd Documents/HW2repo/
+  690  ls
+  691  autotest
+  692  irb
+  693  ls
+  694  cd lib/
+  695  ls
+  696  irb
+  697  clear
+  698  cd ..
+  699  cd  ..
+  700  ls
+  701  cd HW2repo/
+  702  ls
+  703  rm test_result.txt 
+  704  ls
+  705  ls -a
+  706  cd lib
+  707  ls -a
+  708  cd ../spec/
+  709  ls
+  710  ls -a
+  711  rm oracle_of_bacon_spec.rb_bkp
+  712  ls
+  713  cd ..
+  714  autotest
+  715  clear
+  716  cd ..
+  717  ls
+  718  tar -cf ptoke_HW2.tar HW2repo
+  719  ;s
+  720  ls
+  721  tar -czf ptoke_HW2.tar.gz HW2repo
+  722  ls
+  723  exit
+  724  cd Soc
+  725  cd Documents/
+  726  ls
+  727  cp -rf rottenpotatoes HW3
+  728  ls
+  729  cd HW3
+  730  ls
+  731  ls -a
+  732  la -a1r
+  733  git init
+  734  la -a1r
+  735  git commit -am "fisrt commit"
+  736  git add .
+  737  git commit -m "first commit test"
+  738  git branch
+  739  git status
+  740  cleat
+  741  clear
+  742  ssh -T git@github.com
+  743  git remote add origin git@github.com:prasad-toke/HW3.git
+  744  git push -u origin master
+  745  cd ../ls
+  746  cd ..;ls
+  747  cd HW3
+  748  ls
+  749  rake db:migrate
+  750  rails console --sandbox
+  751  ls
+  752  cd db
+  753  ls
+  754  cd migrate/
+  755  ls
+  756  cat 20131107031651_create_movies.rb 
+  757  rake db:migrate
+  758  ls
+  759  rake db:migrate
+  760  ruby script/generate migration users
+  761  ruby generate migration users
+  762  generate migration users
+  763  irb
+  764  ls
+  765  cd ..
+  766  ls
+  767  cd script/
+  768  ls
+  769  exit
+  770  cd Documents/HW3/
+  771  rails server
+  772  clear
+  773  rake routes
+  774  rails server
+  775  cd Documents/HW3
+  776  ruby script/generate migration users
+  777  ls
+  778  cd script/
+  779  ls -al
+  780  head rails
+  781  cd ..
+  782  clear
+  783  rails generate migration users
+  784  cd db/migrate/
+  785  ls
+  786  vi 20141002063159_users.rb 
+  787  rake db:migrate
+  788  cd ../..
+  789  cd app/models/
+  790  ls
+  791  vi user.rb
+  792  cat movie.rb 
+  793  ls
+  794  cp movie.rb user.rb
+  795  vi user.rb 
+  796  cat user.rb 
+  797  rake routes
+  798  ls
+  799  cd ../..
+  800  ls
+  801  cd config/
+  802  ls
+  803  cat routes.rb 
+  804  vi routes.rb 
+  805  clear
+  806  rake routes
+  807  cd ..
+  808  cd app/
+  809  ls
+  810  cd views/layouts/
+  811  ls
+  812  vi application.html.haml
+  813  rails server
+  814  clear
+  815  vi application.html.haml
+  816  cd ..
+  817  ls
+  818  cd movies/
+  819  ls
+  820  cat index.html.haml 
+  821  cd ..
+  822  cat layouts/application.html.haml 
+  823  cd layouts/
+  824  vi application.html.haml 
+  825  ls
+  826  cd ..
+  827  ls
+  828  mkdir users
+  829  cd movies/
+  830  ls
+  831  cd ..
+  832  cd ../..
+  833  ls
+  834  git status
+  835  git add .
+  836  git commit -m "Part1 and some Part 2"
+  837  git push
+  838  git branch
+  839  git status
+  840  exit
+  841  rake routes
+  842  cd Documents/HW3/
+  843  rake routes
+  844  cd ../rottenpotatoes/
+  845  rake routes
+  846  cd -
+  847  clear
+  848  ls
+  849  rails console
+  850  rails server
+  851  clear
+  852  rails server
+  853  exit
+  854  cd Documents/HW3/
+  855  rake routes
+  856  rails console
+  857  git add .
+  858  git commit -m "part 2 also done"
+  859  git branch
+  860  git rev-list
+  861  git rev-list $TAG
+  862  git rev-list --tags
+  863  git status
+  864  git push
+  865  exit
+  866  cd Documents/HW
+  867  cd Documents/HW3/
+  868  rails console
+  869  cd Documents/
+  870  cd HW3/
+  871  ls
+  872  rails server
+  873  rails console
+  874  clear
+  875  rails server
+  876  rails console
+  877  clear
+  878  rake routes
+  879  rails server
+  880  rake routes
+  881  rails server
+  882  clear
+  883  rake routes
+  884  rails server
+  885  rake routes
+  886  rails server
+  887  clear
+  888  ls
+  889  git status
+  890  git add .
+  891  git commit -m "part 3 also done"
+  892  git push
+  893  git status
+  894  exit
+  895  cd Documents/HW3/
+  896  git log
+  897  git status
+  898  rails server
+  899  clear
+  900  git status
+  901  git add .
+  902  git status
+  903  git commit -m "all parts with new changes"
+  904  git status
+  905  clear
+  906  git add .
+  907  git commit -m "done 1"
+  908  git checkout master
+  909  cd
+  910  ls
+  911  wget -qO- https://toolbelt.heroku.com/install-ubuntu.sh | sh
+  912  clear
+  913  cd -
+  914  ls
+  915  ls -l
+  916  vi Gemfile
+  917  cd config/environments/
+  918  ls
+  919  vi production.rb 
+  920  cd -
+  921  cd db/
+  922  ls
+  923  vi seeds.rb 
+  924  heroku login
+  925  heroku create --stack cedar
+  926  git push
+  927  git push heroku master
+  928  cd ..
+  929  git push heroku master
+  930  heroku keys:add
+  931  git push heroku master
+  932  heroku create --stack cedar
+  933  git push heroku master
+  934  heroku run rake db:migrate
+  935  heroku run rake db:seed
+  936  cd ..
+  937  ls
+  938  tar -cf ptokeHW3.tar HW3
+  939  ls
+  940  exit
+  941  cd Documents/HW3/
+  942  rails server
+  943  git status
+  944  git add .
+  945  git commit -m "HW3 done"
+  946  git status
+  947  heroku login
+  948  git push heroku master
+  949  cd ..
+  950  ls
+  951  rm ptokeHW3.tar 
+  952  cd -
+  953  git status
+  954  cd ..
+  955  ls
+  956  tar -cf ptokeHW3.tar HW3
+  957  ls
+  958  exit
+  959  cd Documents/
+  960  ls
+  961  mkdir HW4
+  962  cd HW4/
+  963  ;s
+  964  ls
+  965  git init
+  966  git remote add origin git@github.com:SELT/HW4fall14
+  967  git pull origin master
+  968  clear
+  969  ls
+  970  rail server
+  971  rails server
+  972  ls
+  973  bundle install
+  974  rails server
+  975  rake db:seed
+  976  rake db:migrate
+  977  rake db:seed
+  978  rails server
+  979  exit
+  980  cd Documents/HW5
+  981  cd Documents/HW4
+  982  ls
+  983  rails server
+  984  clear
+  985  rake db:test:prepare
+  986  git status
+  987  git add .
+  988  git commit -m "initial"
+  989  git remote add origin https://github.com/prasad-toke/HW4.git
+  990  git remote add origin git@github.com/prasad-toke/HW4.git
+  991  ls -a
+  992  rm -rf .git
+  993  ls -a
+  994  git init
+  995  ls
+  996  git add .
+  997  git commit -m "initial"
+  998  git status
+  999  git remote add origin git@github.com/prasad-toke/HW4.git
+ 1000  git push -u origin master
+ 1001  git remote add origin https://github.com/prasad-toke/HW4.git
+ 1002  git push
+ 1003  git config --get-regexp '^(remote|branch)\.'
+ 1004  ls
+ 1005  cd ../HW3
+ 1006  ls
+ 1007  cd -
+ 1008  tail README 
+ 1009  clear
+ 1010  git remote add origin https://github.com/prasad-toke/HW4.git
+ 1011  git push
+ 1012  git status
+ 1013  git push -u origin master
+ 1014  ls -a
+ 1015  rm -rf .git
+ 1016  ls
+ 1017  gti status
+ 1018  git status
+ 1019  git init
+ 1020  clear
+ 1021  ls -a
+ 1022  git add .
+ 1023  git commit -m "initial no changes"
+ 1024  git status
+ 1025  git branch
+ 1026  clear
+ 1027  git remote add origin git@github.com:SELT/HW4.git
+ 1028  git push -u origin master
+ 1029  git remote add origin git@github.com:prasad-toke/HW4.git
+ 1030  git remote remove origin
+ 1031  git remote add origin git@github.com:prasad-toke/HW4.git
+ 1032  git remote rm origin
+ 1033  clear
+ 1034  git remote add origin git@github.com:prasad-toke/HW4.git
+ 1035  git push -u origin master
+ 1036  ls
+ 1037  cd features/
+ 1038  ls
+ 1039  cd step_definitions/
+ 1040  ls
+ 1041  cd ../..
+ 1042  cucmber
+ 1043  cucumber
+ 1044  clear
+ 1045  cucumber
+ 1046  cd Documents/HW4/
+ 1047  rails server
+ 1048  cd Documents/
+ 1049  cd HW4
+ 1050  rails server
+ 1051  clear
+ 1052  cucumber
+ 1053  clear
+ 1054  cucumber
+ 1055  git status
+ 1056  git add .
+ 1057  git commit -m "done 1"
+ 1058  git status
+ 1059  git push
+ 1060  exit
+ 1061  cd Documents/
+ 1062  cd HW4/
+ 1063  rails server
+ 1064  exit
+ 1065  cd Documents/HW4
+ 1066  cucmber
+ 1067  cucumber
+ 1068  git status
+ 1069  cucumber
+ 1070  git add .
+ 1071  git commit -m "done 2"
+ 1072  git status
+ 1073  git push
+ 1074  exit
+ 1075  cd Documents/HW4
+ 1076  rails server
+ 1077  cd Documents/HW4
+ 1078  cucumber
+ 1079  exit
+ 1080  cd Documents/HW4
+ 1081  cucumber
+ 1082  git status
+ 1083  git add .
+ 1084  git commit -m "done 3"
+ 1085  git push
+ 1086  cd ../features/
+ 1087  ls
+ 1088  cd ..
+ 1089  ls
+ 1090  cucumber
+ 1091  cd ../HW4
+ 1092  cucmber
+ 1093  cucumber
+ 1094  ls
+ 1095  tar -cf features ptoke.tar
+ 1096  ls
+ 1097  cucumber
+ 1098  tar -cf ptoke.tar features
+ 1099  ls
+ 1100  rails server
+ 1101  exit
+ 1102  cd Documents/
+ 1103  ls
+ 1104  cd HW4
+ 1105  gem install 'themoviedb'
+ 1106  ls
+ 1107  ls -lr Gemfile
+ 1108  vi Gemfile
+ 1109  bundle install
+ 1110  bundle show themoviedb
+ 1111  bundle show rspec-rails
+ 1112  irb
+ 1113  clear
+ 1114  rake routes
+ 1115  cd ../HW3
+ 1116  rake routes
+ 1117  cd -
+ 1118  rake routes
+ 1119  cd Documents/HW4
+ 1120  rails server
+ 1121  cd ../HW3
+ 1122  rails server
+ 1123  cd -
+ 1124  rails server
+ 1125  exit
+ 1126  cd Documents/HW4
+ 1127  rails server
+ 1128  cd Documents/
+ 1129  cd HW4
+ 1130  ls
+ 1131  irb
+ 1132  clear
+ 1133  rake routes
+ 1134  cd Documents/
+ 1135  HW4
+ 1136  cd HW4
+ 1137  ls
+ 1138  rake routes
+ 1139  rails server
+ 1140  cd Documents/
+ 1141  cd HW4
+ 1142  ls
+ 1143  ls -1
+ 1144  ls
+ 1145  gem install 'rspec-rails'
+ 1146  ls -1
+ 1147  vi Gemfile
+ 1148  bundle install
+ 1149  show rpsec-rails
+ 1150  bundle show rspec-rails
+ 1151  ls
+ 1152  rails g rspec:install
+ 1153  cd spec/
+ 1154  ls
+ 1155  rails generate rspec:model
+ 1156  ls
+ 1157  rails generate rspec:model movies
+ 1158  rails generate rspec:controller movies
+ 1159  rpec *
+ 1160  rspec *
+ 1161  ls
+ 1162  cat rails_helper.rb
+ 1163  cd ..
+ 1164  ls
+ 1165  ls -a
+ 1166  git status
+ 1167  git add .
+ 1168  git commit -m "hw5 1st"
+ 1169  git status
+ 1170  autorun
+ 1171  rpec *
+ 1172  rspec *
+ 1173  cd ..
+ 1174  ls
+ 1175  mkdir HW5
+ 1176  ls
+ 1177  cd HW5
+ 1178  git init
+ 1179  git remote add origin git@github.com:SELT/HW4fall14
+ 1180  git pull origin master
+ 1181  ls
+ 1182  gem install 'themoviedb'
+ 1183  rake routes
+ 1184  bundle install
+ 1185  rails server
+ 1186  history
+ 1187  gem install 'rspec-rails'
+ 1188  rake routes
+ 1189  run db:migrate
+ 1190  rake db:migrate
+ 1191  history >> history.txt
